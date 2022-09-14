@@ -1,0 +1,27 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8" isELIgnored="false"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
+<%
+	request.setCharacterEncoding("utf-8");
+%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<title>메인페이지</title>
+</head>
+<body>
+	<h1>메인페이지 입니다.!!</h1>
+	<script src='/bundles/v1/weather/latest/SSR-extension.a23f4e03d776ac55bb05.js' type="text/javascript" onerror="onErrorHandler(this.src)" nonce="" crossorigin="anonymous"></script>
+
+<meta name="description" content="%EB%8C%80%EC%A0%84, %EB%8C%80%EC%A0%84%EC%8B%9C에 대한 분 단위 예측이 필요하세요? Microsoft 날씨은(는) 강수 예측부터 악천후 경고, 대기 질 업데이트, 산불 경고에 이르기까지 모든 것을 추적합니다.">
+<link rel="canonical" href="https://www.msn.com/ko-kr/weather/forecast/in-%EB%8C%80%EC%A0%84,%20%EB%8C%80%EC%A0%84%EC%8B%9C?loc=dW5kZWZpbmVk"/>
+<link rel="dns-prefetch" href="//api.msn.com" crossorigin="use-credentials"><link rel="dns-prefetch" href="//assets.msn.com" crossorigin="anonymous"><link rel="dns-prefetch" href="//assets.msn.com" crossorigin="use-credentials"><link rel="dns-prefetch" href="//c.bing.com" crossorigin="use-credentials"><link rel="dns-prefetch" href="//c.msn.com" crossorigin="use-credentials"><link rel="dns-prefetch" href="//img-s-msn-com.akamaized.net" crossorigin="use-credentials"><link rel="dns-prefetch" href="//sb.scorecardresearch.com" crossorigin="use-credentials"><link rel="dns-prefetch" href="//www.bing.com" crossorigin="use-credentials"><link rel="preconnect" href="//api.msn.com" crossorigin="use-credentials"><link rel="preconnect" href="//assets.msn.com" crossorigin="anonymous"><link rel="preconnect" href="//assets.msn.com" crossorigin="use-credentials"><link rel="preconnect" href="//c.bing.com" crossorigin="use-credentials"><link rel="preconnect" href="//c.msn.com" crossorigin="use-credentials"><link rel="preconnect" href="//img-s-msn-com.akamaized.net" crossorigin="use-credentials"><link rel="preconnect" href="//sb.scorecardresearch.com" crossorigin="use-credentials"><link rel="preconnect" href="//www.bing.com" crossorigin="use-credentials"><link rel="preconnect" href="//ecn.api.tiles.virtualearth.net" crossorigin="anonymous"><link rel="preconnect" href="//ecn.api.tiles.virtualearth.net" crossorigin="use-credentials"><link rel="preconnect" href="//t.ssl.ak.dynamic.tiles.virtualearth.net" crossorigin="anonymous"><link rel="preconnect" href="//t.ssl.ak.dynamic.tiles.virtualearth.net" crossorigin="use-credentials"><link rel="preconnect" href="//t.ssl.ak.tiles.virtualearth.net" crossorigin="use-credentials">
+        <script type="text/javascript" nonce="">
+            if(matchMedia("(prefers-color-scheme:dark)").matches){const s=document.createElement("style");document.head.appendChild(s);s.type="text/css";s.appendChild(document.createTextNode("body{background:#242424}"));}
+        </script>
+	
+</body>
+</html>

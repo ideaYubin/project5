@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>사랑합니다. 고객님</title>
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script type="text/javascript">
+function fn_process(){
+	$.ajax({
+		type:"post",
+		async:false,
+		url:"http://localhost:8080/html5/ajaxTest2",
+		dataType:"xml",
+		success:function (info, textStatus) {
+			$(info).find("book").each(function(){
+				var title=$(this).find("title").text();
+				var writer=$(this).find("writer").text();
+				var image=$(this).find("image").text();
+				
+				$("#bookInfo").append(
+				"<p>" + title + "</p>" + 		
+				"<p>" + writer + "</p>" +
+				"<img src=" + image + " />"
+				);
+			});
+		},
+
+	});
+}
+
+</script>
+</head>
+<body>
+<div id="bookInfo"></div>
+<input type="button" value="자바 프로그램" onClick="fn_process()">
+</body>
+</html>

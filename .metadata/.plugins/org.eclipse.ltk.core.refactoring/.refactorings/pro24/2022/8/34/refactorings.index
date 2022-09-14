@@ -1,0 +1,8 @@
+1660801769890	Rename resource 'jdbc.xml'
+1660802495510	Delete element
+1660803023239	Rename resource 'jdbc.proerties'
+1660809098561	Move 'view' to 'WEB-INF'
+1660809106752	Rename resource 'view'
+1660813112348	Move 'action-servlet.xml' to 'views'
+1660813117580	Move 'action-servlet.xml' to 'WEB-INF'
+1660873956649	Delete elements

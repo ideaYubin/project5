@@ -1,0 +1,8 @@
+1661400321535	Rename package 'pro30.mybatis'
+1661400468811	Delete element
+1661415907372	Rename resource 'action-batis.xml'
+1661418621433	Rename resource 'listMember.jsp'
+1661428295390	Delete element
+1661486869787	Move 'jdbc.properties' to 'jdbc'
+1661490751128	Move 'image_repo' to 'resources'
+1661490754594	Rename resource 'image_repo'

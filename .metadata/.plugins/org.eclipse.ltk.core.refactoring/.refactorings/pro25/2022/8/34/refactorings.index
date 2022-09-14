@@ -1,0 +1,6 @@
+1660886418691	Move 'views' to 'WEB-INF'
+1660887292682	Move 'action-servlet.xml' to 'WEB-INF'
+1660887316386	Rename resource 'action-mybatis.xml'
+1660887750968	Rename resource 'action-myBatis.xml'
+1660888127651	Delete element
+1660888618185	Delete elements

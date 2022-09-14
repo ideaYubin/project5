@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;html5_jquery_example&apos; to &apos;html5&apos;" description="Rename resource &apos;html5_jquery_example&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/html5_jquery_example" name="html5" stamp="1658987741947" updateReferences="true"/>
+</session>
